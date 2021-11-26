@@ -70,6 +70,7 @@ header .header-links .sign-in-link a {
 header .header-links .sign-in-link .logout {
   color: rgb(255, 254, 254);
   cursor: pointer;
+  padding: 14px;
 }
 
 header .header-links .img img {
